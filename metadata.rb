@@ -1,0 +1,10 @@
+name 'patch_log4j'
+maintainer 'Richard Nixon'
+maintainer_email 'richard.nixon@btinternet.com'
+license 'All Rights Reserved'
+description 'Patches Log4j against CVE-2021-44228 and CVE-2021-45046'
+version '0.1.0'
+chef_version '>= 14.0'
+
+issues_url 'https://github.com/trickyearlobe/patch_log4j/issues'
+source_url 'https://github.com/trickyearlobe/patch_log4j'
